@@ -328,17 +328,6 @@ iframe {
 .github-graph .js-calendar-graph-svg {
   max-width: 100%;
 }
-.ghfeed {
-  height: 600px;
-}
-.ghfeed,
-.ghfeed *,
-.ghfeed *:before,
-.ghfeed *:after {
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-}
 /* Info Section */
 .info .fa {
   margin-right: 15px;
