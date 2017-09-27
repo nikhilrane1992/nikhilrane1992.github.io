@@ -505,6 +505,10 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+.header .resume{
+  margin-left: 350px;
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
@@ -524,6 +528,9 @@ iframe {
   }
   .project-image {
     margin-bottom: 15px;
+  }
+  .header .resume{
+    margin-left: 0px;
   }
 }
 /* Small devices (tablets, 768px and up) */
